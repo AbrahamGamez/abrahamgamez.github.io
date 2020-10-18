@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: cornsilk;
   
   font-family: Calibri;
   
@@ -10,9 +10,11 @@ body {
 
 h1{
   text-align: center;
+  color: #522398;
 }
 h2{
   text-align: center;
+  color: #522398;
 }
 
 img {
